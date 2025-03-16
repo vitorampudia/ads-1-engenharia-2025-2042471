@@ -32,31 +32,119 @@ Percebe-se que, no caso da metodologia em Espiral, é necessário de recursos e 
   
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
-(Explique os valores e princípios do Manifesto Ágil.)
+
 #### Valores do Manifeso ágil
 
-1. **Indivíduos e interações mais que processos e ferramentas** 
-   - *Esse valor mostra que é necessário valorizar mais as pessoas do que processos e ferramentas, dado que, o desenvolvimento de software é uma atividade humana, e são as pessoas que respondem às necessidades dos negócios e impulsionam o processo de desenvolvimento. De fato Processos e ferramentas são importantes, todavia devem ser simples e úteis.*
+1. **Indivíduos e interações mais que processos e ferramentas**  
+   *Valoriza a comunicação e colaboração entre as pessoas, pois bons processos não substituem uma equipe alinhada e engajada*  
 
-2. **Software em funcionamento mais que documentação abrangente**
-   - *123*
+2. **Software em funcionamento mais que documentação abrangente**  
+   *O foco está em entregar resultados concretos e funcionando, em vez de gastar muito tempo com documentos extensos que podem se tornar desatualizados*
+
+3. **Colaboração com o cliente mais que negociação de contratos**  
+   *Prioriza o relacionamento próximo com o cliente, buscando entender suas reais necessidades, em vez de se prender apenas ao que está no contrato*  
+
+4. **Responder a mudanças mais que seguir um plano**  
+   *Perceber que mudanças acontecem e que o projeto deve se adaptar, ao invés de seguir rigidamente um plano inicial que pode se tornar inadequado*
+
+#### Princípios do Manifesto Ágil
+
+1. **Satisfazer o cliente através de entregas contínuas e adiantadas de software de valor**  
+   *Entregar frequentemente versões que já gerem valor, mantendo o cliente satisfeito*
+
+2. **Aceitar mudanças de requisitos, mesmo no final do desenvolvimento**  
+   *Ser flexível para adaptar o produto conforme surgirem novas necessidades ou oportunidades*
+
+3. **Entregar software funcionando com frequência, de semanas a meses, com preferência à menor escala de tempo**  
+   *Lançar versões úteis e utilizáveis o quanto antes e regularmente*
+
+4. **Colaboradores de negócio e desenvolvedores devem trabalhar juntos diariamente**  
+   *Estar em contato constante com o cliente/usuário final para entender e ajustar as demandas*
+
+5. **Construir projetos em torno de indivíduos motivados. Dar a eles o ambiente e suporte necessários, e confiar neles para realizar o trabalho**
+   *Equipes motivadas e com autonomia geram melhores resultados*
+
+6. **O método mais eficiente e eficaz de transmitir informações é a conversa cara a cara**  
+   *Valoriza comunicação direta, evitando mal-entendidos de documentos longos*
+
+7. **Software funcionando é a principal medida de progresso**  
+   *O que importa é o que foi entregue e está funcionando, não o que está planejado ou documentado*
+
+8. **Agilidade sustentável com ritmo constante**  
+   *O trabalho deve ter um ritmo equilibrado, sem sobrecarregar a equipe, mantendo a produtividade a longo prazo*
+
+9. **Atenção contínua à excelência técnica e bom design melhora a agilidade**  
+   *Um código de qualidade facilita mudanças futuras e mantém o produto evoluindo de forma saudável*
+
+10. **Simplicidade — o máximo possível de trabalho não realizado — é essencial**  
+    *Fazer somente o necessário, evitando criar funcionalidades ou documentos desnecessários*
+
+11. **As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizadas**  
+    *Confiar na capacidade da equipe de encontrar as melhores soluções, sem precisar de comando rígido*
+
+12. **Refletir regularmente sobre como se tornar mais eficaz e ajustar o comportamento de acordo**  
+    *Sempre buscar melhoria contínua, ajustando o modo de trabalho conforme a experiência da equipe*  
+
+
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
-(O que são sprints e como funcionam no Scrum?)
+
+São ciclos curtos de trabalho (geralmente de 1 a 4 semanas), em que o time desenvolve e entrega uma parte funcional do produto. Cada Sprint possui um objetivo claro e, ao final, deve resultar em uma entrega potencialmente utilizável. 
+
+Elas servem para fatiar o desenvolvimento do projeto em etapas menores, o que permite entregar partes funcionais do produto com frequência, de forma iterativa e incremental.
+
+Durante uma Sprint, o time trabalha com foco total em entregar um incremento de produto pronto e potencialmente utilizável, ou seja, algo que já possa ser testado, avaliado e, em alguns casos, até entregue ao cliente.
 
 ### 💬 Cerimônias  
-(Descreva as principais cerimônias do Scrum.)
+
+1. **Sprint Planning**   
+   *Definir o que será feito na Sprint e como o trabalho será realizado*
+   
+3. **Daily Scrum**   
+   *Reunião rápida para acompanhar o progresso e identificar impedimentos*
+
+4. **Sprint Review**  
+   *Apresentação das entregas feitas para os stakeholders, com possibilidade de feedback* 
+
+5. **Sprint Retrospective**   
+   *Reunião para discutir o que funcionou, o que pode melhorar, e como a equipe pode evoluir*
+
+
 
 ## 🎯 Kanban  
-(Explique o funcionamento do Kanban e sua aplicação.)
+É uma metodologia visual de gerenciamento de tarefas, utilizando quadros e cartões. Cada tarefa é representada por um cartão que passa por colunas, permitindo que o time visualize o fluxo de trabalho, identifique obstáculos e melhore a produtividade. O Kanban é ideal para fluxos contínuos e tarefas que não têm ciclos fixos como o Scrum.
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+1. **Comunicação constante entre os membros do time.**  
+
+2. **Feedback rápido e contínuo sobre o software.**  
+
+3. **Simplicidade no código e nas soluções.**  
+
+4. **Coragem para mudar e melhorar o sistema sempre que necessário.**  
+
+5. **Respeito entre os membros da equipe.**  
+
+6. **Práticas técnicas como Testes Automatizados, Integração Contínua e Programação em Par.**
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+
+- **Hospedar e gerenciar códigos** de forma colaborativa.  
+- **Gerenciar branches e pull requests**.  
+- **Controlar issues (tarefas, bugs, melhorias)**.  
+- **Automatizar processos com CI/CD (Integração e Entrega Contínuas).**  
+
+Essas ferramentas facilitam o trabalho em equipe e o acompanhamento da evolução do projeto.
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+
+
+- **Jira**
+  *Robusto, voltado a equipes ágeis (Scrum, Kanban), com recursos avançados de planejamento, backlog e métricas.*  
+
+- **Trello:** 
+  *Simples e visual, com quadros e cartões que facilitam a organização de tarefas. Muito usado para Kanban e projetos menores.*  
+
+Ambas ajudam na organização do fluxo de trabalho, acompanhamento de tarefas, definição de prazos e colaboração da equipe.  
